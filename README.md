@@ -2,7 +2,7 @@
 
 > **A high-performance, full-stack e-commerce platform engineered specifically for premium automotive replacement parts, diagnostic tools, and accessories.**
 
-<img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80](https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80)>
+<img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80" alt="Auto Cool Tech Banner" width="100%" style="border-radius: 10px;">
 
 ---
 
