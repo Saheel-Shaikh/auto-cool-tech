@@ -1,12 +1,12 @@
-# Auto Cool Tech
+# 🏎️ Auto Cool Tech
 
 > **A high-performance, full-stack e-commerce platform engineered specifically for premium automotive replacement parts, diagnostic tools, and accessories.**
 
-![Porsche Automotive Banner](https://images.unsplash.com/photo-1503376712351-4177e77b1022?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+<img src="https://images.unsplash.com/photo-1503376712351-4177e77b1022?auto=format&fit=crop&w=1200&q=80" alt="Porsche Automotive Banner" width="100%" style="border-radius: 10px;">
 
 ---
 
-## Core Features
+## 🛠️ Core Features
 
 Auto Cool Tech delivers a seamless end-to-end shopping experience, designed with a focus on performance and intuitive user navigation.
 
@@ -40,5 +40,6 @@ Built utilizing the **MERN** stack, emphasizing scalable architecture and secure
 
 ## ⚙️ Featured Categories
 
-![Auto Parts](https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+<img src="https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1200&q=80" alt="Auto Parts" width="100%" style="border-radius: 10px;">
+
 *Engine Components | Cooling Systems | Diagnostic Electronics | Suspension Setup*
