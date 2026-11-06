@@ -1,4 +1,4 @@
-# 🏎️ Auto Cool Tech
+# Auto Cool Tech
 
 > **A high-performance, full-stack e-commerce platform engineered specifically for premium automotive replacement parts, diagnostic tools, and accessories.**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Core Features
+## Core Features
 
 Auto Cool Tech delivers a seamless end-to-end shopping experience, designed with a focus on performance and intuitive user navigation.
 
