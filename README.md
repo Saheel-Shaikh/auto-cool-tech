@@ -42,5 +42,3 @@ Built utilizing the **MERN** stack, emphasizing scalable architecture and secure
 
 ![Auto Parts](https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 *Engine Components | Cooling Systems | Diagnostic Electronics | Suspension Setup*
-
----
