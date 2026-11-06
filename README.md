@@ -1,4 +1,4 @@
-# 🏎️ Auto Cool Tech
+# Auto Cool Tech
 
 > **A high-performance, full-stack e-commerce platform engineered specifically for premium automotive replacement parts, diagnostic tools, and accessories.**
 
@@ -6,19 +6,19 @@
 
 ---
 
-## 🛠️ Core Features
+## Core Features
 
 Auto Cool Tech delivers a seamless end-to-end shopping experience, designed with a focus on performance and intuitive user navigation.
 
-*   **🛒 Comprehensive E-Commerce Flow:** Robust implementation of shopping cart logic, dynamic shipping calculations, and a secure checkout process.
-*   **🔍 Advanced Product Management:** Features sophisticated product search, category filtering, user ratings, and a verified review system for automotive components.
-*   **👤 Secure User Dashboards:** Dedicated profiles allowing customers to manage credentials, track active shipments, and review complete order history.
-*   **🛡️ Administrative Control Panel:** Secure admin routing for comprehensive store management, including inventory updates, user access control, and order fulfillment tracking.
-*   **✨ Modern UI/UX Architecture:** Designed with a clean, responsive blue-and-white aesthetic to ensure an optimal viewing experience across desktop and mobile devices.
+*   **Comprehensive E-Commerce Flow:** Robust implementation of shopping cart logic, dynamic shipping calculations, and a secure checkout process.
+*   **Advanced Product Management:** Features sophisticated product search, category filtering, user ratings, and a verified review system for automotive components.
+*   **Secure User Dashboards:** Dedicated profiles allowing customers to manage credentials, track active shipments, and review complete order history.
+*   **Administrative Control Panel:** Secure admin routing for comprehensive store management, including inventory updates, user access control, and order fulfillment tracking.
+*   **Modern UI/UX Architecture:** Designed with a clean, responsive blue-and-white aesthetic to ensure an optimal viewing experience across desktop and mobile devices.
 
 ---
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 Built utilizing the **MERN** stack, emphasizing scalable architecture and secure data management.
 
