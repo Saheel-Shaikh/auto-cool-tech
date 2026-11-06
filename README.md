@@ -2,7 +2,7 @@
 
 > **A high-performance, full-stack e-commerce platform engineered specifically for premium automotive replacement parts, diagnostic tools, and accessories.**
 
-<img src="https://images.unsplash.com/photo-1503376712351-4177e77b1022?auto=format&fit=crop&w=1200&q=80" alt="Porsche Automotive Banner" width="100%" style="border-radius: 10px;">
+<img src="https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80](https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=1200&q=80)>
 
 ---
 
